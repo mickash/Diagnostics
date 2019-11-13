@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1535543276353.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "654953984",
+    "id" : "8BF7C3E3",
+    "lastKnownWriteTime" : 1537518996,
+    "last_content_update" : 1537518996588,
+    "path" : "~/My R Packages/AI Course/Diagnostics/R/diagnostics.R",
+    "project_path" : "R/diagnostics.R",
+    "properties" : {
+        "cursorPosition" : "97,56",
+        "scrollLine" : "82",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

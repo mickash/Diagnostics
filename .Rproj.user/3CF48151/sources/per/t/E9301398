@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537517540431.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2247782354",
+    "id" : "E9301398",
+    "lastKnownWriteTime" : 1537518894,
+    "last_content_update" : 1537518894643,
+    "path" : "~/My R Packages/AI Course/Diagnostics/R/hist_data.R",
+    "project_path" : "R/hist_data.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
